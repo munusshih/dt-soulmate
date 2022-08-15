@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="en">
+<meta name="viewport" content="initial-scale=1, maximum-scale=1">
+
+<head>
+	<meta charset="utf-8" />
+	<title>DT Soulmate Matcher</title>
+	<!-- keep the line below for OpenProcessing compatibility -->
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.4.0/p5.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.4.0/addons/p5.sound.min.js"></script>
+	<link rel="stylesheet" href="https://use.typekit.net/lhv0ccr.css">
+	<link rel="stylesheet" type="text/css" href="./css/style.css">
+</head>
+
+<body>
+	<div id="home">
+		<a href="index.html"><h1><span>DT<br>Soulmate<br> Matcher</span></h1></a>
+	</div>
+	<nav>
+		<ul>
+            <a href="index.html">
+                <li>✵ Home</li>
+            </a>
+            <a href="community.html">
+                <li>✵ How to Read</li>
+            </a>
+            <a href="weaving.html">
+                <li>✵ Weaving</li>
+            </a>
+            <li id="about">✵ About the Project</li>
+		</ul>
+	</nav>
+
+	<div id="instruction">
+		<h2 id="insClose">Got it!</h1>
+			<br>
+			<ul>
+				<li><span>Welcome!</span> Here you can use your mouse to click, pan, and pin these cards that find out
+					more about the active members in
+					DT!</li>
+				<li>You can also hit + or - to adjust the size for reading. Click on the left corner
+					<span>soulmate</span> to
+					see the result of pairing.</li>
+				<li>Hit <span>about
+						project</span> to find out many more! Enjoy! </li>
+	</div>
+
+	<sidebar>
+        <h1 id="closer" class="closeButton">X</h1>
+        <h2>About Project</h2>
+        <br>
+        <ul>
+            <li>Have you ever felt lonely because DT is such a diverse community but there's no one like you?</li>
+            <li>Are you an
+                aspiring artist, UIUX person, or creative technologist looking for a similar cohort?</li>
+            <li>Or you may be someone
+                who simply wanna get out of the bubble and make new friends?</li>
+        </ul>
+        <br>
+        <p>The project is here for you!</p>
+
+        <p>Hi, I'm Munus. <span>[: DT soulmate matcher :]</span> is an uncorporate data visualization project I did in
+            the 2022
+            Spring Major Studio 2 class taught by Sven Travis.</p>
+        <p>The project utilizes generative designs and a custom
+            algorithm to experiment with a new way of facilitating community building.</p>
+
+        <br><br>
+        <p>- - - - - - - - -</p>
+        <h2>How to Read</h2>
+        <br>
+        <p>By collecting data from 45 community members in the <a
+                href="https://www.newschool.edu/parsons/mfa-design-technology/">Parsons Design and Technology MFA
+                program</a>, I was able
+            to
+            craft customized data identities for each one of them and paired them up with at least one soulmate
+            using a
+            self-made soulmate matcher algorithm.</p>
+
+        <p>Every card here represents an active community member in the program, you can unfold their card to learn
+            more
+            about them. You can also switch between <span>similarity</span>, <span>grid</span>, and
+            <span>soulmate</span> modes. In similarity mode,
+            everyone
+            is arranged by how similar to one another, the closer they are, the similar they are in terms of skills
+            and
+            interests. In soulmate mode, you will be able to see who is being paired with whom in the matching.</p>
+
+        <br><br>
+        <p>- - - - - - - - -</p>
+        <h2>More Info</h2>
+        <br>
+        <p><a href="https://munusshih.com">Click here </a>to learn more about the process and me and concept behind
+            this project. Or send an email to
+            <a href="mailto:munusshih.newschool.edu">munusshih@newschool.edu</a> if you're interested to find out
+            more!</p>
+    </sidebar>
+	<div id="sketch"></div>
+	<div id="layout">
+		<h1>Layout:/</h1>
+		<button onclick="showSimilar()" id="sB" class="text-button selected">similarity</button>
+		<button onclick="showGrid()" id="sG" class="text-button">grid</button>
+		<button onclick="showSoulmate()" id="sS" class="text-button">soulmate</button>
+		<p>© 2021 munusshih</p>
+		<p>* tips *: mouse can drag around and pin/fold cards</p>
+	</div>
+	<div id="buttons">
+		<button onclick="bigger()" class="glass-button round-button">+</button>
+		<button onclick="smaller()" class="glass-button round-button">-</button>
+	</div>
+</body>
+
+
+<script src="mySketch.js"></script>
+<script src="draw.js"></script>
+<script src="label.js"></script>
+<script src="intro.js"></script>
+<script src="traits.js"></script>
+<script src="JSON.js"></script>
+<script src="objects.js"></script>
+<script src="interaction.js"></script>
+
+</html>
