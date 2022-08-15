@@ -1,0 +1,266 @@
+{"soulmate":[
+ {
+   "source": "Ardak",
+   "target": "Lila",
+   "maxValue": 12,
+   "Index": 41
+ },
+ {
+   "source": "Shristi",
+   "target": "Ardak",
+   "maxValue": 11,
+   "Index": 0
+ },
+ {
+   "source": "Christina",
+   "target": "Smitha",
+   "maxValue": 7,
+   "Index": 7
+ },
+ {
+   "source": "Artem",
+   "target": "Nanwei",
+   "maxValue": 6,
+   "Index": 35
+ },
+ {
+   "source": "Yixuan",
+   "target": "Yeunjae",
+   "maxValue": 12,
+   "Index": 30
+ },
+ {
+   "source": "Beatriz",
+   "target": "Yixuan",
+   "maxValue": 10,
+   "Index": 4
+ },
+ {
+   "source": "Erika",
+   "target": "Zo‘",
+   "maxValue": 10,
+   "Index": 27
+ },
+ {
+   "source": "Smitha",
+   "target": "Lavannya",
+   "maxValue": 13,
+   "Index": 21
+ },
+ {
+   "source": "Yash",
+   "target": "Franco",
+   "maxValue": 8,
+   "Index": 36
+ },
+ {
+   "source": "Tanve",
+   "target": "Shayla",
+   "maxValue": 10,
+   "Index": 24
+ },
+ {
+   "source": "You Jin",
+   "target": "Billy",
+   "maxValue": 8,
+   "Index": 19
+ },
+ {
+   "source": "Rachel",
+   "target": "Yeunjae",
+   "maxValue": 8,
+   "Index": 30
+ },
+ {
+   "source": "Nicky",
+   "target": "tee",
+   "maxValue": 9,
+   "Index": 33
+ },
+ {
+   "source": "Alex",
+   "target": "Myles",
+   "maxValue": 8,
+   "Index": 29
+ },
+ {
+   "source": "Anshuman",
+   "target": "Ananya",
+   "maxValue": 12,
+   "Index": 40
+ },
+ {
+   "source": "Hong",
+   "target": "Shayla",
+   "maxValue": 12,
+   "Index": 24
+ },
+ {
+   "source": "Shuhan",
+   "target": "Han",
+   "maxValue": 7,
+   "Index": 28
+ },
+ {
+   "source": "Leffin",
+   "target": "Anshuman",
+   "maxValue": 5,
+   "Index": 14
+ },
+ {
+   "source": "Bhuvan",
+   "target": "Billy",
+   "maxValue": 15,
+   "Index": 19
+ },
+ {
+   "source": "Billy",
+   "target": "Anshuman",
+   "maxValue": 12,
+   "Index": 14
+ },
+ {
+   "source": "Hasan",
+   "target": "tee",
+   "maxValue": 12,
+   "Index": 33
+ },
+ {
+   "source": "Lavannya",
+   "target": "RUOYUN",
+   "maxValue": 12,
+   "Index": 31
+ },
+ {
+   "source": "Nell",
+   "target": "Bhuvan",
+   "maxValue": 11,
+   "Index": 18
+ },
+ {
+   "source": "Simone",
+   "target": "Camille",
+   "maxValue": 12,
+   "Index": 26
+ },
+ {
+   "source": "Shayla",
+   "target": "Roy",
+   "maxValue": 12,
+   "Index": 39
+ },
+ {
+   "source": "Haochen",
+   "target": "Yixuan",
+   "maxValue": 11,
+   "Index": 4
+ },
+ {
+   "source": "Camille",
+   "target": "Simone",
+   "maxValue": 11,
+   "Index": 23
+ },
+ {
+   "source": "Zo‘",
+   "target": "Roy",
+   "maxValue": 12,
+   "Index": 39
+ },
+ {
+   "source": "Han",
+   "target": "Ardak",
+   "maxValue": 11,
+   "Index": 0
+ },
+ {
+   "source": "Myles",
+   "target": "Zo‘",
+   "maxValue": 11,
+   "Index": 27
+ },
+ {
+   "source": "Yeunjae",
+   "target": "Simran",
+   "maxValue": 15,
+   "Index": 38
+ },
+ {
+   "source": "RUOYUN",
+   "target": "Lavannya",
+   "maxValue": 12,
+   "Index": 21
+ },
+ {
+   "source": "Peilin",
+   "target": "Ananya",
+   "maxValue": 5,
+   "Index": 40
+ },
+ {
+   "source": "tee",
+   "target": "Hasan",
+   "maxValue": 12,
+   "Index": 20
+ },
+ {
+   "source": "Cheryl",
+   "target": "Nanwei",
+   "maxValue": 10,
+   "Index": 35
+ },
+ {
+   "source": "Nanwei",
+   "target": "Bhuvan",
+   "maxValue": 0,
+   "Index": 18
+ },
+ {
+   "source": "Franco",
+   "target": "Lavannya",
+   "maxValue": 10,
+   "Index": 21
+ },
+ {
+   "source": "Wafi",
+   "target": "Anshuman",
+   "maxValue": 4,
+   "Index": 14
+ },
+ {
+   "source": "Simran",
+   "target": "Yeunjae",
+   "maxValue": 13,
+   "Index": 30
+ },
+ {
+   "source": "Roy",
+   "target": "Nanwei",
+   "maxValue": 15,
+   "Index": 35
+ },
+ {
+   "source": "Ananya",
+   "target": "Bhuvan",
+   "maxValue": 15,
+   "Index": 18
+ },
+ {
+   "source": "Lila",
+   "target": "Ardak",
+   "maxValue": 12,
+   "Index": 0
+ },
+ {
+   "source": "Nassiba",
+   "target": "Cheryl",
+   "maxValue": 9,
+   "Index": 34
+ },
+ {
+   "source": "Unnati",
+   "target": "Cheryl",
+   "maxValue": 5,
+   "Index": 34
+ }
+]}
